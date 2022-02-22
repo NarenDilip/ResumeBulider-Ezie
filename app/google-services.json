@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1009293509539",
+    "project_id": "ezie-cv",
+    "storage_bucket": "ezie-cv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009293509539:android:e6cbaf2796e5c91c075016",
+        "android_client_info": {
+          "package_name": "com.naren.resumebuilder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009293509539-3595k0v89qer04iji6ccegu65dt2ff4r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.naren.resumebuilder",
+            "certificate_hash": "623b504b9b3b5664bf8be72c34c97bd4a201ec45"
+          }
+        },
+        {
+          "client_id": "1009293509539-h17rqpm9d0vtan9ch519amffv06mm46i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSORhpXjONEvfsLbEmP0HlJBkzlZ58BQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009293509539-h17rqpm9d0vtan9ch519amffv06mm46i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
